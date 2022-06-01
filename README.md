@@ -40,8 +40,8 @@ ES6 Java Script para melhorar e deixar atualizado o projeto </p>
    
    # Fotos 
    
-   <img src="">
-   <img src="">
+   <img src="./imagens/convert readme.gif">
+   <img src="./imagens/readme conv.JPG">
    
    # Autor 
    <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
