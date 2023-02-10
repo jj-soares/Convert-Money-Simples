@@ -9,7 +9,7 @@
 ## Photo 🎴
    <div align='center' >
  <img src="./imagens/convert readme.gif">
-   <img src="./imagens/readme conv.JPG">
+ 
   
    </div>
 
@@ -40,7 +40,7 @@ ES6 Java Script to improve and update the project </p>
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
-   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+   <img src='./imagens/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
    
    <br>
    
