@@ -1,47 +1,59 @@
 <h1 align="center">
-  💻 Conversor de Moedas 💻
+  💻 Currency converter 💻
 </h1>
 
 <h4 align="center">
-  💻Conversor de Moedas que troca e faz o calculo para saber o valores de moedas!! 💻
+  💻Currency converter that exchanges and calculates to know the values of currencies!! 💻
 </h4>
 
+## Photo 🎴
+   <div align='center' >
+ <img src="./imagens/convert readme.gif">
+   <img src="./imagens/readme conv.JPG">
+  
+   </div>
+
 <p align="center">   
-   <a href="#sobre">Sobre</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#tecnologias">Tecnologias</a> .
-   <a href="#fotos">Fotos</a> . 
-   <a href="#autor">Autor</a>
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photos">Photos</a> . 
+   <a href="#Author">Author</a> 
+   
  </p>
 
 
    
- # Sobre 
+## On ✔
      
      
-   <p> Projeto para conversão de moedas, que pode fazer as somas para obter valores de moedas de distintos paises</p>
+   <p> Currency conversion project, which can do the sums to obtain currency values ​​from different countries</p>
    
    
+## Roadmap 🗺
+   
+   <p> Unlike the first project, this one doesn't update the coin values ​​automatically, but in this project I'm already using it
+ES6 Java Script to improve and update the project </p>
    
    
+ ## Technologies 🚀
    
-   # Roadmap 
+   <h3 align="center"> Technologies used in the project 🙃 </h3>
    
-   <p> Diferentemente do primeiro projeto, esse aqui nao atualiza os valores das moedas automaticamente, porem nesse projeto ja estou usando 
-ES6 Java Script para melhorar e deixar atualizado o projeto </p>
+   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
    
+   <br>
    
-   # Tecnologias 
-   <h3 align="center"> Tecnolgias usadas no projeto </h3>
-  <p>HTML</p>
-  <p>CSS</p>
-  <p>Java Script</p>
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com/)
    
    
-   # Fotos 
+<br>
+<br>
+
    
-   <img src="./imagens/convert readme.gif">
-   <img src="./imagens/readme conv.JPG">
+  
    
-   # Autor 
-   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
